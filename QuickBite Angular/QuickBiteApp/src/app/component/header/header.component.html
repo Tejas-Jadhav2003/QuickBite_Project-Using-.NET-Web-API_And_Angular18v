@@ -1,0 +1,72 @@
+<nav class="navbar navbar-expand-sm navbar-light border-bottom box-shadow" style="background-color:#81b1ce;">
+    <div class="container-fluid">
+        <!-- Toggler button for mobile view -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+  
+        <!-- Collapsible navbar content -->
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <!-- Left-aligned items (logo, nav links) -->
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <!-- Logo -->
+                <li class="nav-item">
+                    <a class="nav-link text-white mt-2 nav-hover" routerLink="/">
+                        <img src="images/Home/web-logo.png" alt="img" style="height: 30px; width: 120px; margin-left:0px;"> 
+                    </a>
+                </li>
+  
+                <!-- Other nav links -->
+                <li class="nav-item">
+                    <a class="nav-link text-white fw-bold mt-2 nav-hover" routerLink="/" routerLinkActive="active">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white fw-bold mt-2 nav-hover" routerLink="/recipes">Recipes</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white fw-bold mt-2 nav-hover" routerLink="/menu" routerLinkActive="active">Menu</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white fw-bold mt-2 nav-hover" routerLink="/help">Help</a>
+                </li>
+  
+                <!-- Responsive search bar -->
+                <li class="nav-item w-100 mt-2 mt-lg-0">
+                    <form class="d-flex w-10  0">
+                        <input class="form-control mt-2 ml-5 me-2 rounded-pill" type="search" placeholder="Search" aria-label="Search" style="flex-grow: 1;">
+                        <button class="btn btn-outline-light mt-2 rounded-pill" type="submit">Search</button>
+                    </form>
+                </li>
+            </ul>
+  
+            <!-- Right-aligned items (cart, user dropdown) -->
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link text-white fw-bold nav-hover" routerLink="/cart">Cart(0)</a>
+                </li>
+  
+                <!-- User dropdown -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link text-white fw-bold nav-hover" style="cursor:pointer;" id="dropdownMenu" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="fa-solid fa-user-large" style="font-size:large;"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenu">
+                        <li>
+                            <a class="dropdown-item font-monospace" routerLink="/user/profile">Profile</a>
+                        </li>                        
+                        <li>
+                            <a class="dropdown-item font-monospace" routerLink="/user/sign-in">sign-in</a>
+                        </li>
+                        <hr class="dropdown-divider">
+                        <li>
+                            <a class="dropdown-item text-center font-monospace text-danger" routerLink="/user/logout">Logout 
+                                <i class="fa-solid fa-right-from-bracket"></i>
+                            </a>
+                        </li>                       
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

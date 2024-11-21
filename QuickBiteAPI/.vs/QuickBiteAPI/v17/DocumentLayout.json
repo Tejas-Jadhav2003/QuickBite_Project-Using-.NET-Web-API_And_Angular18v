@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net and angular project\\QuickBiteAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|d:\\.net and angular project\\quickbiteapi\\quickbiteapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|solutionrelative:quickbiteapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|d:\\.net and angular project\\quickbiteapi\\quickbiteapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|solutionrelative:quickbiteapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|d:\\.net and angular project\\quickbiteapi\\quickbiteapi\\repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|solutionrelative:quickbiteapi\\repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|d:\\.net and angular project\\quickbiteapi\\quickbiteapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|solutionrelative:quickbiteapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|d:\\.net and angular project\\quickbiteapi\\quickbiteapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|solutionrelative:quickbiteapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|d:\\.net and angular project\\quickbiteapi\\quickbiteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|solutionrelative:quickbiteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|d:\\.net and angular project\\quickbiteapi\\quickbiteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB7EE4B9-0210-4CFF-BBA1-C5C71B804548}|QuickBiteAPI\\QuickBiteAPI.csproj|solutionrelative:quickbiteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "QuickBiteAPI\\appsettings.json",
+              "ToolTip": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\appsettings.json",
+              "RelativeToolTip": "QuickBiteAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T12:44:54.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "QuickBiteAPI\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "QuickBiteAPI\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:14:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Repository\\IUser.cs",
+              "RelativeDocumentMoniker": "QuickBiteAPI\\Repository\\IUser.cs",
+              "ToolTip": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Repository\\IUser.cs",
+              "RelativeToolTip": "QuickBiteAPI\\Repository\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:10:03.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QuickBiteAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QuickBiteAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:57:18.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "QuickBiteAPI\\Models\\UserModel.cs",
+              "ToolTip": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Models\\UserModel.cs",
+              "RelativeToolTip": "QuickBiteAPI\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:19:08.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuickBiteAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuickBiteAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:40:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Program.cs",
+              "RelativeDocumentMoniker": "QuickBiteAPI\\Program.cs",
+              "ToolTip": "D:\\.net and angular project\\QuickBiteAPI\\QuickBiteAPI\\Program.cs",
+              "RelativeToolTip": "QuickBiteAPI\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:33:53.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
